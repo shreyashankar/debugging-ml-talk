@@ -1,6 +1,6 @@
 # debugging-ml-talk
 
-This repo contains (or will contain) the code corresponding to my "Debugging ML in Production" talk.
+This repo contains (or will contain) the code and slides corresponding to my "Debugging ML in Production" talk.
 
 I am giving / will give this talk at:
 * [NLP Zurich Meetup](https://www.meetup.com/NLP-Zurich/events/275819552/)
