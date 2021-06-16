@@ -7,7 +7,8 @@ I am giving / will give this talk at:
 * [UCSD's DSC 102: Systems for Scalable Analytics course taught by Arun Kumar](http://cseweb.ucsd.edu/~arunkk/dsc102_winter21/schedule.html)
 * [Stanford's MLSys seminar](https://www.youtube.com/watch?v=aGzu7nI8IRE)
 * [Verta MLOps Monitoring Salon](https://info.verta.ai/mlops-salon-model-monitoring?utm_content=160052147&utm_medium=social&utm_source=twitter&hss_channel=tw-1081294493213585408)
-* [Databrics Data + AI Summit](https://databricks.com/session_na21/catch-me-if-you-can-keeping-up-with-ml-models-in-production)
+* [Databricks Data + AI Summit](https://databricks.com/session_na21/catch-me-if-you-can-keeping-up-with-ml-models-in-production)
+* [Toronto MLOps World Conference](https://mlopsworld.com/)
 
 TODO:
 - [x] Document notebook
