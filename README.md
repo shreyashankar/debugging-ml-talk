@@ -12,7 +12,7 @@ I am giving / will give different versions of this talk at:
 * [UC Berkeley RISECamp](https://risecamp.berkeley.edu/)
 * [Facebook Data Observability Summit](https://www.linkedin.com/posts/sravankumar-nandamuri-89337032_data-observability-learning-summit-2021-activity-6866778956964741120-iUnI/)
 * [Toronto Machine Learning Society Annual Conference](https://bit.ly/TMLS_2021)
-* [Google DevFest 2021](https://developers.googleblog.com/2021/10/announcing-devfest-2021.html)
+* [Google DevFest 2021](https://www.aicamp.ai/event/eventdetails/W2021120809)
 
 TODO:
 - [x] Document notebook
